@@ -1,1 +1,2 @@
 # practice
+PythonのFastAPIでHTMLを返すだけのテスト用のリポジトリ
